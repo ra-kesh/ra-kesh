@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋 , I am Rakesh
+
+A full stack devloper from first batch of [neoG.Camp](https://neog.camp/),
+who decided to learn coding during the pandemic, mostly out of boredom but then fell in love with it.
+I like to experiment with different things . I can spends hours just to know the reason `WHY` . And I have never gave up even once during debugging . 
+
+
 
 <!--
 **ra-kesh/ra-kesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
