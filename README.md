@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  I am [Rakesh](https://www.rakeshh.online/)
 
-A full stack `devloper` from first batch of [neoG.Camp](https://neog.camp/),
+An accidental `devloper` from first batch of [neoG.Camp](https://neog.camp/),
 who decided to learn `coding` during the `pandemic`, mostly out of `boredom` but then fell in `love` with it.
 I like to `experiment` with different things . I can spends hours just to know the reason `WHY` . And I have never `gave up` even once during debugging . You can see all of my `projects`, `experiments`, `learnings` and `failures` in below repositories.
 
