@@ -6,15 +6,11 @@ I'm a self-taught developer who discovered my passion for coding during the pand
 Currently writing code at [Invact](https://Invact.com) but looking for a full time role in React ecosystem. Please reach out if you can help, thank you 🙏
 
 
-### I have worked with
+
 <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/><a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/809508401758732288/918040152490770442/JrehsCpb_400x400.png" alt="next" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 
   
- 
-### You can find me here too
- <a href="https://twitter.com/kumarakeshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kumarakeshh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/iamrakeshkumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamrakeshkumar" height="30" width="40" /></a>
-<a href="https://dev.to/rakesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/chandrikadeb7/github-profile-readme-generator/chandrikadeb7-devlogo/src/images/icons/Social/devto.svg" alt="rakesh" height="30" width="40" /></a>
+
 
 
 
