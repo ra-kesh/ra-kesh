@@ -7,8 +7,7 @@ Currently writing code at [Invact](https://Invact.com) but looking for a full ti
 
 
 ### I have worked with
-<a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/><a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/809508401758732288/918040152490770442/JrehsCpb_400x400.png" alt="next" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a><a href="https://nodejs.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a><a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a><a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a></a>
-
+<a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/><a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/809508401758732288/918040152490770442/JrehsCpb_400x400.png" alt="next" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 
   
  
