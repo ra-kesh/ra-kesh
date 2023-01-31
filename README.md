@@ -1,10 +1,9 @@
-## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  I am [Rakesh](https://www.rakeshh.online/)
+## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  I am [Rakesh](https://www.rakeshh.website/)
 
-An accidental `devloper` from first batch of [neoG.Camp](https://neog.camp/),
-who decided to learn `coding` during the `pandemic`, mostly out of `boredom` but then fell in `love` with it.
-I like to `experiment` with different things . I can spends hours just to know the reason `WHY` . And I have never `gave up` even once during debugging . You can see all of my `projects`, `experiments`, `learnings` and `failures` in below repositories.
 
-Currently looking for a `full` time role in React ecosystem. Please `reach` out if you can help, thank you 🙏
+I'm a self-taught developer who discovered my passion for coding during the pandemic. I joined the first batch of [neoG.Camp](https://neog.camp/) and never looked back. I have a curious nature and love to experiment with new things. I'm relentless when it comes to debugging and always strive to understand the "why" behind it all. You can follow my journey through my projects, experiments, learnings, and failures in my repositories.
+
+Currently writing code at [Invact](https://Invact.com) but looking for a full time role in React ecosystem. Please reach out if you can help, thank you 🙏
 
 
 ### I have worked with
